@@ -1,0 +1,41 @@
+body{
+	background-image: url('./Images/PurpleRoses.jpg')
+
+}
+h1{
+	background-color: purple;
+	text-align: center;
+	font-size: 5em;
+	color:yellow;
+	font-family: Chiller;
+	padding: 30px;
+	border: solid;
+}
+p{
+	font-size: 2em;
+	background-color:green;
+	color: yellow;
+	font-family: Algerian;
+	padding:20px;
+}
+.abc{
+	background-color: black;
+	color:yellow;
+}
+
+#main-footer{
+	font-family: courier;
+	text-align: center;
+	margin-top: 150px;
+	margin-right: 690px;
+	margin-left: 690px;
+	font-size: 2em;
+	color: yellow;
+	background-color:purple;
+}
+#bgContainer{
+	height: 400px;
+	width: 100%;
+	background-image: url('./Images/sky.jpg');
+	background-size: cover;
+}
